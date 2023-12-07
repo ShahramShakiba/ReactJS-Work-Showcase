@@ -18,11 +18,18 @@
 <br/>
 
 <!--=====================  Coming Soon Page =============================-->
-### 💻 Counter Application  &nbsp; <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" width="20"  />
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="35"  /> Counter Application  &nbsp; <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" width="20"  />
 - A counter app can be used to track the number of times a specific event has occurred, providing valuable data for analysis.
 - Counters are used in digital signal processing applications to measure the frequency of a signal.
 - Counters can also be used for measuring time.
+- 
+<!-------- try it live -------->
+ ### Give it a go in real-time and give me a Star <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="35" />
+ <a href="https://counter-application-shahram.netlify.app/" target="_blank">
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" /> Counter Application Demo
+</a> <br/><br/>
   
+<!--------- Video --------->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Clapper%20Board.webp" alt="Clapper Board" width="35" />
 
 https://github.com/ShahramShakiba/React.js-Work-Showcase/assets/110089830/4fddd9e1-c570-4862-8248-b53523a8765e
