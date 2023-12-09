@@ -1,13 +1,13 @@
-# React.js Work Showcase   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" height="40" width="36"  />
+# ReactJS Work Showcase   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" height="40" width="36"  />
 
 ## 🚧 Under Maintenance <br/><br/>
 <!----------------------------------------- Description ---------------------------------------->
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" />&nbsp; Description
-- Over time, I have dedicated myself to creating a diverse range of projects using React.js, with the primary goal of pushing the boundaries of my skills in this specific domain.
-- These projects have not only provided me with a platform for improving my abilities but have also presented me with the opportunity to tackle increasingly complex challenges.
-- Through this ongoing collection of work, I have been able to continuously test and improve my proficiency in React.js, ultimately allowing me to grow and develop as a proficient developer in this field.
+- I'm excited to share my collection of projects with you, which I've developed through extensive research and learning from online resources like YouTube.
+- As someone passionate about coding and web development, I've been particularly drawn to ReactJS and have invested a lot of time exploring its capabilities.
+- Each project in this collection is a chance for me to experiment with new techniques and expand my coding skills. 
   
-> Your time and consideration in reviewing my work are greatly appreciated. Please feel free to explore and share your thoughts.
+> So, delve into the repository and unearth the diverse projects I have created. I trust you'll find them informative and motivational, and I eagerly await your feedback!
 
 <br/>
 
